@@ -7,4 +7,4 @@ This repository contains all of the source code - that together with the supplem
 
 The scripts were writted using R version 4.1.0. 
 
-The scripts require the following R packages: `phytools`, `dplyr`, `ggplot2`,  `treeio`, `aplot`.
+The scripts require the following R packages: `phytools`, `dplyr`, `ggplot2`,  `treeio`, `aplot`, `ggtree`.
