@@ -1,0 +1,209 @@
+Merians	Tips	Child_node	Event
+M13,MZ	Acrobasis_suavella	Acrobasis_suavella	fusion
+M19,M21	Agonopterix_subpropinquella	Agonopterix_subpropinquella	fusion
+M13,M4,MZ	Agonopterix_subpropinquella	Agonopterix_subpropinquella	fusion
+M26,M28	Agriopis_aurantiaria	Agriopis_aurantiaria	fusion
+M24,M27,M28	Agriopis_marginaria	Agriopis_marginaria	fusion
+[('M24', 'M27'), ('M24', 'M28'), ('M27', 'M28')]	Agriopis_marginaria	Agriopis_marginaria	fusion
+M10,M4	Agriphila_geniculea	Agriphila_geniculea	fusion
+M30,MZ	Agriphila_geniculea	Agriphila_geniculea	fusion
+M4,M7	Agriphila_tristella	Agriphila_tristella	fusion
+M10,MZ	Agriphila_tristella	Agriphila_tristella	fusion
+M2,M24	Agriphila_tristella	Agriphila_tristella	fusion
+M22,M8	Agriphila_tristella	Agriphila_tristella	fusion
+M18,M6	Agriphila_tristella	Agriphila_tristella	fusion
+M29,M9	Agriphila_tristella	Agriphila_tristella	fusion
+M13,M23	Agriphila_tristella	Agriphila_tristella	fusion
+M17,M19,M20	Agriphila_tristella	Agriphila_tristella	fusion
+M30,M5	Agrochola_circellaris	Agrochola_circellaris	fusion
+M29,M6	Anthocharis_cardamines	Anthocharis_cardamines	fusion
+M26,MZ	Boloria_selene	Boloria_selene	fusion
+M31,M4	Bombyx_mori	Bombyx_mori	fusion
+M16,M29	Bombyx_mori	Bombyx_mori	fusion
+M27,M30	Bombyx_mori	Bombyx_mori	fusion
+M23,MZ	Calamotropha_paludella	Calamotropha_paludella	fusion
+M8	Celastrina_argiolus	Celastrina_argiolus	fission
+M19,M6	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M15,M8	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M12,M30	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M13,M24	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M22,M26	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M21,M25	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M23,M28,M31	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M10,M27,M29	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+[('M10', 'M27'), ('M10', 'M29'), ('M27', 'M29')]	Chloroclysta_siterata	Chloroclysta_siterata	fusion
+M25,MZ	Clostera_curtula	Clostera_curtula	fusion
+M30,M31	Clostera_curtula	Clostera_curtula	fusion
+M5,M6	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M1,M7	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M18,M3	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M19,M4	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M10,M31	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M22,M27	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M23,M30	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M14,M28,M29	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M12,M15,M25	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M13,M21,M26	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M11,M16,M24	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+[('M14', 'M28'), ('M14', 'M29'), ('M28', 'M29')]	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+[('M12', 'M15'), ('M12', 'M25'), ('M15', 'M25')]	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+[('M13', 'M21'), ('M13', 'M26'), ('M21', 'M26')]	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+[('M11', 'M16'), ('M11', 'M24'), ('M16', 'M24')]	Crocallis_elinguaria	Crocallis_elinguaria	fusion
+M14,MZ	Danaus_plexippus_plexippus	Danaus_plexippus_plexippus	fusion
+M31,MZ	Dendrolimus_kikuchii	Dendrolimus_kikuchii	fusion
+M29,MZ	Ecliptopera_silaceata	Ecliptopera_silaceata	fusion
+M28,M30	Ecliptopera_silaceata	Ecliptopera_silaceata	fusion
+M26,M5	Emmelina_monodactyla	Emmelina_monodactyla	fusion
+M25,M29	Emmelina_monodactyla	Emmelina_monodactyla	fusion
+M25,M29	Erannis_defoliaria	Erannis_defoliaria	fusion
+M13,M24	Erannis_defoliaria	Erannis_defoliaria	fusion
+M18,MZ	Erebia_aethiops	Erebia_aethiops	fusion
+M13,M6	Erebia_aethiops	Erebia_aethiops	fusion
+M22,M7	Erebia_aethiops	Erebia_aethiops	fusion
+M23,M9	Erebia_aethiops	Erebia_aethiops	fusion
+M11,M28	Erebia_aethiops	Erebia_aethiops	fusion
+M10,M24	Erebia_aethiops	Erebia_aethiops	fusion
+M12,M21	Erebia_aethiops	Erebia_aethiops	fusion
+M16,M25	Erebia_aethiops	Erebia_aethiops	fusion
+M27,M31	Erebia_aethiops	Erebia_aethiops	fusion
+M17,M20,M30	Erebia_aethiops	Erebia_aethiops	fusion
+M30,M31	Eulithis_prunata	Eulithis_prunata	fusion
+M1,M6	Eupithecia_centaureata	Eupithecia_centaureata	fusion
+M1	Eupithecia_centaureata	Eupithecia_centaureata	fission
+M6	Eupithecia_centaureata	Eupithecia_centaureata	fission
+M31,MZ	Euproctis_similis	Euproctis_similis	fusion
+M24,M6	Euproctis_similis	Euproctis_similis	fusion
+M13,M23	Euproctis_similis	Euproctis_similis	fusion
+M14,M19	Euproctis_similis	Euproctis_similis	fusion
+M18,M25	Euproctis_similis	Euproctis_similis	fusion
+M16,M27	Euproctis_similis	Euproctis_similis	fusion
+M17,M20,M30	Euproctis_similis	Euproctis_similis	fusion
+M26,M28,M29	Euproctis_similis	Euproctis_similis	fusion
+[('M26', 'M28'), ('M26', 'M29'), ('M28', 'M29')]	Euproctis_similis	Euproctis_similis	fusion
+M25,MZ	Fabriciana_adippe	Fabriciana_adippe	fusion
+M12,M30	Fabriciana_adippe	Fabriciana_adippe	fusion
+M10,M30,MZ	Furcula_furcula	Furcula_furcula	fusion
+[('M10', 'M30'), ('M10', 'MZ'), ('M30', 'MZ')]	Furcula_furcula	Furcula_furcula	fusion
+M13,MZ	Glaucopsyche_alexis	Glaucopsyche_alexis	fusion
+M2,M29	Hedya_salicella	Hedya_salicella	fusion
+M18,M26,M30	Hedya_salicella	Hedya_salicella	fusion
+M1,M17,M20,MZ	Hedya_salicella	Hedya_salicella	fusion
+M23,M9	Heliconius_sara	Heliconius_sara	fusion
+M19,M6	Heliconius_sara	Heliconius_sara	fusion
+M29,M3	Heliconius_sara	Heliconius_sara	fusion
+M24,M5	Heliconius_sara	Heliconius_sara	fusion
+M2,M26	Heliconius_sara	Heliconius_sara	fusion
+M1,M27	Heliconius_sara	Heliconius_sara	fusion
+M30,M8	Heliconius_sara	Heliconius_sara	fusion
+M25,M4	Heliconius_sara	Heliconius_sara	fusion
+M16,M28	Heliconius_sara	Heliconius_sara	fusion
+M12,M31	Heliconius_sara	Heliconius_sara	fusion
+M24,MZ	Hesperia_comma	Hesperia_comma	fusion
+M14,MZ	Hestina_assimilis	Hestina_assimilis	fusion
+M31,M6	Hydriomena_furcata	Hydriomena_furcata	fusion
+M29,M7	Hydriomena_furcata	Hydriomena_furcata	fusion
+M13,M14	Hydriomena_furcata	Hydriomena_furcata	fusion
+M31,MZ	Idaea_aversata	Idaea_aversata	fusion
+M29,M4	Laothoe_populi	Laothoe_populi	fusion
+M19,M28	Limenitis_camilla	Limenitis_camilla	fusion
+M3,M4	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M6,M7	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M14,M2	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M19,M31	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M18,M22	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M11,M21	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M26,M28,M5	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M12,M27,M8	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M1,M24,M30	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M15,M23,M9	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M10,M16,M17	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M13,M20,M25,M29	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+[('M26', 'M28'), ('M26', 'M5'), ('M28', 'M5')]	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+[('M12', 'M27'), ('M12', 'M8'), ('M27', 'M8')]	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+[('M1', 'M24'), ('M1', 'M30'), ('M24', 'M30')]	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+[('M10', 'M16'), ('M10', 'M17'), ('M16', 'M17')]	Limnephilus_lunatus	Limnephilus_lunatus	fusion
+M26,M7	Limnephilus_marmoratus	Limnephilus_marmoratus	fusion
+M7	Limnephilus_marmoratus	Limnephilus_marmoratus	fission
+M24,MZ	Lymantria_monacha	Lymantria_monacha	fusion
+M25,M27	Lymantria_monacha	Lymantria_monacha	fusion
+M29,M30	Lymantria_monacha	Lymantria_monacha	fusion
+M30,M7	Macaria_notata	Macaria_notata	fusion
+M21,M31	Macaria_notata	Macaria_notata	fusion
+M26,M29	Macaria_notata	Macaria_notata	fusion
+M20	Macaria_notata	Macaria_notata	fission
+M17,M20,M29	Manduca_sexta	Manduca_sexta	fusion
+M31,MZ	Meganola_albula	Meganola_albula	fusion
+M27,M7	Melanargia_galathea	Melanargia_galathea	fusion
+M13,M28	Melanargia_galathea	Melanargia_galathea	fusion
+M10,M12	Melanargia_galathea	Melanargia_galathea	fusion
+M24,M25	Melanargia_galathea	Melanargia_galathea	fusion
+M14,M29,M31	Melanargia_galathea	Melanargia_galathea	fusion
+M11,MZ	Micropterix_aruncella	Micropterix_aruncella	fusion
+M15,M9	Glyphotaelius_pellucidus, Limnephilus_lunatus, Limnephilus_marmoratus, Limnephilus_rhombicus	n1	fusion
+M25,M29	Glyphotaelius_pellucidus, Limnephilus_lunatus, Limnephilus_marmoratus, Limnephilus_rhombicus	n1	fusion
+M25,M5	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M1,M19	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M28,M31	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M12,M29	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M18,M30	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M11,M23	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M14,M26	Aricia_agestis, Aricia_artaxerxes, Celastrina_argiolus, Cyaniris_semiargus, Glaucopsyche_alexis, Lycaena_phlaeas, Plebejus_argus, Polyommatus_icarus	n106	fusion
+M14,M30	Hesperia_comma, Ochlodes_sylvanus, Thymelicus_sylvestris	n110	fusion
+M27,M29	Hesperia_comma, Ochlodes_sylvanus, Thymelicus_sylvestris	n110	fusion
+M16,M29	Dendrolimus_kikuchii, Dendrolimus_punctatus	n138	fusion
+M19,M26	Aphantopus_hyperantus, Erebia_aethiops, Erebia_ligea, Hipparchia_semele, Lasiommata_megera, Maniola_jurtina, Melanargia_galathea, Pararge_aegeria	n143	fusion
+M14,M29	Aphantopus_hyperantus, Erebia_aethiops, Erebia_ligea, Hipparchia_semele, Lasiommata_megera, Maniola_jurtina, Melanargia_galathea, Pararge_aegeria	n143	fusion
+M30,M9	Deilephila_porcellus, Hemaris_fuciformis, Hyles_euphorbiae, Hyles_vespertilio, Laothoe_populi, Manduca_sexta, Mimas_tiliae	n156	fusion
+M24,M25	Deilephila_porcellus, Hemaris_fuciformis, Hyles_euphorbiae, Hyles_vespertilio, Laothoe_populi, Manduca_sexta, Mimas_tiliae	n156	fusion
+M17,M20,MZ	Acleris_emargana, Acleris_sparsana, Apotomis_betuletana, Apotomis_turbidana, Cydia_splendana, Epinotia_nisella, Grapholita_molesta, Hedya_salicella, Leguminivora_glycinivorella, Notocelia_uddmanniana, Pammene_fasciana, Pandemis_cinnamomeana	n17	fusion
+M24,MZ	Ypsolopha_scabrella, Ypsolopha_sequella	n20	fusion
+M13,M5	Apotomis_betuletana, Apotomis_turbidana, Cydia_splendana, Epinotia_nisella, Grapholita_molesta, Hedya_salicella, Leguminivora_glycinivorella, Notocelia_uddmanniana, Pammene_fasciana	n22	fusion
+M18,M26	Apotomis_betuletana, Apotomis_turbidana, Cydia_splendana, Epinotia_nisella, Grapholita_molesta, Hedya_salicella, Leguminivora_glycinivorella, Notocelia_uddmanniana, Pammene_fasciana	n22	fusion
+M4,MZ	Aricia_agestis, Aricia_artaxerxes	n227	fusion
+M11,M4	Chloroclysta_siterata, Thera_britannica	n303	fusion
+M28,M31	Chloroclysta_siterata, Thera_britannica	n303	fusion
+M26,MZ	Eilema_depressum, Eilema_sororcula	n305	fusion
+M13,MZ	Agonopterix_arenella, Agonopterix_subpropinquella, Blastobasis_adustella, Blastobasis_lacticolella, Carcina_quercana	n45	fusion
+M17,M20	Abrostola_tripartita, Acentria_ephemerella, Acleris_emargana, Acleris_sparsana, Acrobasis_suavella, Acronicta_aceris, Agonopterix_arenella, Agonopterix_subpropinquella, Agriopis_aurantiaria, Agriopis_marginaria, Agriphila_geniculea, Agriphila_tristella, Agrochola_circellaris, Agrochola_macilenta, Agrotis_puta, Allophyes_oxyacanthae, Amphipyra_berbera, Amphipyra_tragopoginis, Anthocharis_cardamines, Apamea_monoglypha, Aphantopus_hyperantus, Aplocera_efformata, Aporophyla_lueneburgensis, Apotomis_betuletana, Apotomis_turbidana, Aricia_agestis, Aricia_artaxerxes, Atethmia_centrago, Autographa_gamma, Autographa_pulchrina, Bembecia_ichneumoniformis, Biston_betularia, Blastobasis_adustella, Blastobasis_lacticolella, Boloria_selene, Bombyx_mori, Brachylomia_viminalis, Calamotropha_paludella, Campaea_margaritaria, Caradrina_clavipalpis, Carcina_quercana, Carposina_sasakii, Carterocephalus_palaemon, Catocala_fraxini, Celastrina_argiolus, Chloroclysta_siterata, Chrysoteuchia_culmella, Clostera_curtula, Colias_croceus, Cosmia_trapezina, Craniophora_ligustri, Crocallis_elinguaria, Cyaniris_semiargus, Cydia_splendana, Danaus_plexippus_plexippus, Deilephila_porcellus, Dendrolimus_kikuchii, Dendrolimus_punctatus, Diachrysia_chrysitis, Diarsia_rubi, Dryas_iulia_moderata, Dryobotodes_eremita, Ecliptopera_silaceata, Ectropis_grisescens, Eilema_depressum, Eilema_sororcula, Emmelina_monodactyla, Endotricha_flammealis, Ennomos_fuscantarius, Ennomos_quercinarius, Ephestia_elutella, Epinotia_nisella, Erannis_defoliaria, Erebia_aethiops, Erebia_ligea, Erynnis_tages, Euclidia_mi, Eueides_isabella, Eulithis_prunata, Eupithecia_abbreviata, Eupithecia_centaureata, Euplexia_lucipara, Euproctis_similis, Eupsilia_transversa, Fabriciana_adippe, Furcula_furcula, Glaucopsyche_alexis, Grapholita_molesta, Griposia_aprilina, Gymnoscelis_rufifasciata, Habrosyne_pyritoides, Hecatera_dysodea, Hedya_salicella, Heliconius_sara, Helicoverpa_zea, Hemaris_fuciformis, Hesperia_comma, Hestina_assimilis, Hipparchia_semele, Hydraecia_micacea, Hydriomena_furcata, Hylaea_fasciaria, Hyles_euphorbiae, Hyles_vespertilio, Hypena_proboscidalis, Hypsopygia_costalis, Idaea_aversata, Inachis_io, Iphiclides_podalirius, Laothoe_populi, Lasiommata_megera, Laspeyria_flexula, Leguminivora_glycinivorella, Limenitis_camilla, Lobophora_halterata, Luperina_testacea, Lycaena_phlaeas, Lymantria_monacha, Macaria_notata, Mamestra_brassicae, Manduca_sexta, Maniola_jurtina, Marasmarcha_lunaedactyla, Marasmia_exigua, Meganola_albula, Melanargia_galathea, Melitaea_cinxia, Mellicta_athalia, Mesoligia_furuncula, Miltochrista_miniata, Mimas_tiliae, Mythimna_albipuncta, Mythimna_ferrago, Mythimna_impura, Mythimna_separata, Noctua_fimbriata, Noctua_janthe, Noctua_pronuba, Notocelia_uddmanniana, Notodonta_dromedarius, Notodonta_ziczac, Nymphalis_polychloros, Nymphalis_urticae, Ochlodes_sylvanus, Ochropleura_plecta, Omphaloscelis_lunosa, Opisthograptis_luteolata, Orgyia_antiqua, Pammene_fasciana, Pandemis_cinnamomeana, Papilio_machaon, Parapoynx_stratiotata, Pararge_aegeria, Peribatodes_rhomboidaria, Phalera_bucephala, Pheosia_gnoma, Pheosia_tremula, Phlogophora_meticulosa, Phragmatobia_fuliginosa, Plebejus_argus, Plutella_xylostella, Polyommatus_icarus, Protodeltote_pygarga, Ptilodon_capucinus, Pyrgus_malvae, Schrankia_costaestrigalis, Selenia_dentaria, Sesia_apiformis, Sesia_bembeciformis, Spilarctia_lutea, Spilosoma_lubricipeda, Spodoptera_exigua, Spodoptera_frugiperda, Spodoptera_litura, Stenoptilia_bipunctidactyla, Synanthedon_andrenaeformis, Synanthedon_myopaeformis, Synanthedon_vespiformis, Thera_britannica, Tholera_decimalis, Thyatira_batis, Thymelicus_sylvestris, Tinea_trinotella, Vanessa_atalanta, Vanessa_cardui, Watsonalla_binaria, Xestia_c-nigrum, Xestia_sexstrigata, Xestia_xanthographa, Xylocampa_areola, Yponomeuta_sedellus, Ypsolopha_scabrella, Ypsolopha_sequella, Zeuzera_pyrina, Zygaena_filipendulae	n6	fusion
+M25,M29	Iphiclides_podalirius, Papilio_machaon	n64	fusion
+M22,MZ	Marasmarcha_lunaedactyla, Stenoptilia_bipunctidactyla	n78	fusion
+M5,M7	Orgyia_antiqua	Orgyia_antiqua	fusion
+M1,M2	Orgyia_antiqua	Orgyia_antiqua	fusion
+M12,M3	Orgyia_antiqua	Orgyia_antiqua	fusion
+M19,M8	Orgyia_antiqua	Orgyia_antiqua	fusion
+M10,M4	Orgyia_antiqua	Orgyia_antiqua	fusion
+M16,M9	Orgyia_antiqua	Orgyia_antiqua	fusion
+M31,M6	Orgyia_antiqua	Orgyia_antiqua	fusion
+M23,M28	Orgyia_antiqua	Orgyia_antiqua	fusion
+M13,M26	Orgyia_antiqua	Orgyia_antiqua	fusion
+M11,M22	Orgyia_antiqua	Orgyia_antiqua	fusion
+M15,M18	Orgyia_antiqua	Orgyia_antiqua	fusion
+M14,M21	Orgyia_antiqua	Orgyia_antiqua	fusion
+M24,M30,MZ	Orgyia_antiqua	Orgyia_antiqua	fusion
+M17,M20,M25,M27,M29	Orgyia_antiqua	Orgyia_antiqua	fusion
+[('M24', 'M30'), ('M24', 'MZ'), ('M30', 'MZ')]	Orgyia_antiqua	Orgyia_antiqua	fusion
+[('M25', 'M27'), ('M25', 'M29'), ('M27', 'M29')]	Orgyia_antiqua	Orgyia_antiqua	fusion
+[('M25', 'M27'), ('M25', 'M29'), ('M27', 'M29')]	Orgyia_antiqua	Orgyia_antiqua	fusion
+M29,M31	Parapoynx_stratiotata	Parapoynx_stratiotata	fusion
+M23,M25	Pararge_aegeria	Pararge_aegeria	fusion
+M22,MZ	Phalera_bucephala	Phalera_bucephala	fusion
+M19,M22,M24,MZ	Phragmatobia_fuliginosa	Phragmatobia_fuliginosa	fusion
+[('M19', 'M22'), ('M19', 'M24'), ('M19', 'MZ'), ('M22', 'M24'), ('M22', 'MZ'), ('M24', 'MZ')]	Phragmatobia_fuliginosa	Phragmatobia_fuliginosa	fusion
+[('M19', 'M22'), ('M19', 'M24'), ('M19', 'MZ'), ('M22', 'M24'), ('M22', 'MZ'), ('M24', 'MZ')]	Phragmatobia_fuliginosa	Phragmatobia_fuliginosa	fusion
+M13,M28,M31	Plebejus_argus	Plebejus_argus	fusion
+M24,MZ	Polyommatus_icarus	Polyommatus_icarus	fusion
+M27,M6	Selenia_dentaria	Selenia_dentaria	fusion
+M25,MZ	Spilosoma_lubricipeda	Spilosoma_lubricipeda	fusion
+M16,M9	Thera_britannica	Thera_britannica	fusion
+M3,M30	Thera_britannica	Thera_britannica	fusion
+M15,M5	Thera_britannica	Thera_britannica	fusion
+M24,M8	Thera_britannica	Thera_britannica	fusion
+M14,M6	Thera_britannica	Thera_britannica	fusion
+M10,M12	Thera_britannica	Thera_britannica	fusion
+M26,M29	Thera_britannica	Thera_britannica	fusion
+M13,M19	Thera_britannica	Thera_britannica	fusion
+M23,M27	Thera_britannica	Thera_britannica	fusion
+M28,M31,M7	Thera_britannica	Thera_britannica	fusion
+M26,MZ	Thymelicus_sylvestris	Thymelicus_sylvestris	fusion
+M29,MZ	Tinea_trinotella	Tinea_trinotella	fusion
+M30,M31	Zygaena_filipendulae	Zygaena_filipendulae	fusion

@@ -1,0 +1,201 @@
+Species	Assembly_name	Genbank_assembly_accession	Generation_date	Order	Source	Annotation_method	Num_coding_genes	Num_mRNA_transcripts
+Acentria_ephemerella	ilAceEphe1.1	GCA_943193645.1	2022-07	Lepidoptera	DToL	BRAKER2	17748	17946
+Acleris_emargana	ilAclEmar1.1	GCA_927399475.1	2022-06	Lepidoptera	DToL	BRAKER2	21548	21716
+Acleris_sparsana	ilAclSpar1.1	GCA_923062465.1	2022-09	Lepidoptera	DToL	BRAKER2	22123	22280
+Acrobasis_suavella	ilAcrSuav1.1	GCA_943193695.1	2022-07	Lepidoptera	DToL	BRAKER2	19101	19275
+Acronicta_aceris	ilAcrAcer1.1	GCA_910591435.1	2021-12	Lepidoptera	DToL	BRAKER2	18913	19106
+Agonopterix_arenella	ilAgoAren1.1	GCA_927399405.1	2022-06	Lepidoptera	DToL	BRAKER2	18274	18462
+Agonopterix_subpropinquella	ilAgoSubp1.1	GCA_922987775.1	2022-09	Lepidoptera	DToL	BRAKER2	18796	18967
+Agriopis_aurantiaria	ilAgrAura1.1	GCA_914767915.1	2021-12	Lepidoptera	DToL	BRAKER2	16963	17104
+Agriphila_geniculea	ilAgrGeni1.1	GCA_943789525.1	2022-08	Lepidoptera	DToL	BRAKER2	22132	22347
+Agriphila_tristella	ilAgrTris1.1	GCA_928269145.1	2022-06	Lepidoptera	DToL	BRAKER2	22682	22923
+Agrochola_circellaris	ilAgrCirc1.1	GCA_914767755.1	2021-12	Lepidoptera	DToL	BRAKER2	18319	18499
+Agrochola_macilenta	ilAgrMaci1.1	GCA_916701695.1	2022-01	Lepidoptera	DToL	BRAKER2	18769	18959
+Allophyes_oxyacanthae	ilAllOxya1.1	GCA_932294325.1	2022-06	Lepidoptera	DToL	BRAKER2	17301	17485
+Apamea_monoglypha	ilApaMono1.2	GCA_911387795.2	2022-03	Lepidoptera	DToL	BRAKER2	17963	18157
+Apeira_syringaria	ilApeSyri1.1	GCA_934044485.1	2022-09	Lepidoptera	DToL	BRAKER2	18426	18577
+Apotomis_betuletana	ilApoBetu1.1	GCA_932273695.1	2022-06	Lepidoptera	DToL	BRAKER2	21717	21968
+Apotomis_turbidana	ilApoTurb1.2	GCA_905147355.2	2022-03	Lepidoptera	DToL	BRAKER2	22646	22880
+Atethmia_centrago	ilAteCent1.3	GCA_905333075.3	2022-03	Lepidoptera	DToL	BRAKER2	21345	21555
+Boloria_selene	ilBolSele5.2	GCA_905231865.2	2021-12	Lepidoptera	DToL	BRAKER2	17930	18137
+Brachylomia_viminalis	ilBraVimi1.1	GCA_937001585.1	2022-06	Lepidoptera	DToL	BRAKER2	20191	20380
+Brenthis_ino	SP_BI_364.v2_0	GCA_921882275.1	2022-09	Lepidoptera	INSDC	BRAKER2	16825	17019
+Calamotropha_paludella	ilCalPalu1.1	GCA_927399485.1	2022-06	Lepidoptera	DToL	BRAKER2	21500	21650
+Campaea_margaritaria	ilCamMarg1.1	GCA_912999815.1	2021-12	Lepidoptera	DToL	BRAKER2	16403	16555
+Carcina_quercana	ilCarQuer1.2	GCA_910589575.2	2022-07	Lepidoptera	DToL	BRAKER2	17996	18150
+Carterocephalus_palaemon	ilCarPala2.1	GCA_944567765.1	2022-08	Lepidoptera	DToL	BRAKER2	17032	17333
+Chrysoteuchia_culmella	ilChrCulm1.1	GCA_910589605.1	2021-12	Lepidoptera	DToL	BRAKER2	21251	21475
+Cosmia_trapezina	ilCosTrap1.2	GCA_905163495.2	2022-03	Lepidoptera	DToL	BRAKER2	20130	20276
+Crocallis_elinguaria	ilCroElin1.1	GCA_907269065.1	2021-12	Lepidoptera	DToL	BRAKER2	17741	17905
+Cyaniris_semiargus	ilCyaSemi1.1	GCA_905187585.1	2021-12	Lepidoptera	DToL	BRAKER2	16408	16601
+Deilephila_porcellus	ilDeiPorc1.2	GCA_905220455.2	2022-03	Lepidoptera	DToL	BRAKER2	18147	18356
+Diachrysia_chrysitis	ilDiaChry1.1	GCA_932294365.1	2022-06	Lepidoptera	DToL	BRAKER2	18320	18552
+Diarsia_rubi	ilDiaRubi1.1	GCA_932274075.1	2022-06	Lepidoptera	DToL	BRAKER2	19173	19371
+Dryobotodes_eremita	ilDryErem1.1	GCA_917490735.1	2022-01	Lepidoptera	DToL	BRAKER2	19706	19901
+Ecliptopera_silaceata	ilEclSila1.1	GCA_932527185.1	2022-09	Lepidoptera	DToL	BRAKER2	16770	16974
+Eilema_depressum	ilEilDepe1.1	GCA_914767945.1	2021-12	Lepidoptera	DToL	BRAKER2	20038	20236
+Eilema_sororcula	ilEilSoro1.1	GCA_914829495.1	2021-12	Lepidoptera	DToL	BRAKER2	21093	21274
+Endotricha_flammealis	ilEndFlam1.2	GCA_905163395.2	2022-03	Lepidoptera	DToL	BRAKER2	17578	17781
+Epinotia_nisella	ilEpiNise2.1	GCA_932294315.1	2022-06	Lepidoptera	DToL	BRAKER2	18952	19249
+Erannis_defoliaria	ilEraDefo1.1	GCA_905404285.1	2021-12	Lepidoptera	DToL	BRAKER2	17653	17797
+Erebia_aethiops	ilEreAeth2.2	GCA_923060345.2	2022-07	Lepidoptera	DToL	BRAKER2	17884	18065
+Erebia_ligea	ilEreLige1.2	GCA_917051295.2	2022-03	Lepidoptera	DToL	BRAKER2	18233	18419
+Erynnis_tages	ilEryTage1.1	GCA_905147235.1	2021-11	Lepidoptera	DToL	BRAKER2	15237	15416
+Eulithis_prunata	ilEulPrun1.1	GCA_918843925.1	2022-01	Lepidoptera	DToL	BRAKER2	16023	16208
+Eupithecia_abbreviata	ilEupAbbr2.1	GCA_943735965.1	2022-08	Lepidoptera	DToL	BRAKER2	16676	16876
+Eupithecia_centaureata	ilEupCent1.1	GCA_944547425.1	2022-08	Lepidoptera	DToL	BRAKER2	18717	18964
+Euplexia_lucipara	ilEupLuci1.1	GCA_921972225.1	2022-09	Lepidoptera	DToL	BRAKER2	20395	20590
+Eupsilia_transversa	ilEupTran1.1	GCA_914767815.1	2021-12	Lepidoptera	DToL	BRAKER2	18065	18267
+Furcula_furcula	ilFurFurc1.1	GCA_911728495.1	2021-12	Lepidoptera	DToL	BRAKER2	19590	19758
+Glaucopsyche_alexis	ilGlaAlex1.1	GCA_905404095.1	2021-12	Lepidoptera	DToL	BRAKER2	19128	19321
+Griposia_aprilina	ilGriApri1.1	GCA_916610205.1	2021-12	Lepidoptera	DToL	BRAKER2	19932	20122
+Gymnoscelis_rufifasciata	ilGymRufi1.1	GCA_929108375.1	2022-06	Lepidoptera	DToL	BRAKER2	17861	18077
+Habrosyne_pyritoides	ilHabPyri1.1	GCA_907165245.1	2021-12	Lepidoptera	DToL	BRAKER2	17018	17239
+Hesperia_comma	ilHesComm1.1	GCA_905404135.1	2021-12	Lepidoptera	DToL	BRAKER2	18725	18967
+Hestina_assimilis	ASM2337388v1	GCA_023373885.1	2022-09	Lepidoptera	INSDC	BRAKER2	16798	16988
+Hipparchia_semele	ilHipSeme1.1	GCA_933228805.1	2022-09	Lepidoptera	DToL	BRAKER2	17540	17738
+Hydraecia_micacea	ilHydMica1.1	GCA_914767645.1	2021-12	Lepidoptera	DToL	BRAKER2	18988	19169
+Hydriomena_furcata	ilHydFurc1.1	GCA_912999785.1	2021-12	Lepidoptera	DToL	BRAKER2	17324	17492
+Hylaea_fasciaria	ilHylFasc1.1	GCA_905147375.1	2022-03	Lepidoptera	DToL	BRAKER2	17216	17406
+Hypsopygia_costalis	ilHypCost1.1	GCA_937001555.1	2022-06	Lepidoptera	DToL	BRAKER2	19248	19419
+Laothoe_populi	ilLaoPopu1.1	GCA_905220505.1	2021-12	Lepidoptera	DToL	BRAKER2	16940	17118
+Lobophora_halterata	ilLobHalt1.1	GCA_932526365.1	2022-06	Lepidoptera	DToL	BRAKER2	16820	17029
+Luperina_testacea	ilLupTest1.1	GCA_927399505.1	2022-06	Lepidoptera	DToL	BRAKER2	18096	18298
+Macaria_notata	ilMacNota1.1	GCA_927399415.1	2022-06	Lepidoptera	DToL	BRAKER2	17964	18126
+Marasmarcha_lunaedactyla	ilMarLuna1.1	GCA_923062675.1	2022-09	Lepidoptera	DToL	BRAKER2	21571	21756
+Mesoligia_furuncula	ilMesFuru1.1	GCA_916614155.1	2021-12	Lepidoptera	DToL	BRAKER2	21903	22079
+Miltochrista_miniata	ilMilMini2.1	GCA_933228765.1	2022-09	Lepidoptera	DToL	BRAKER2	23879	24074
+Mimas_tiliae	ilMimTili1.1	GCA_905332985.1	2021-12	Lepidoptera	DToL	BRAKER2	16541	16720
+Noctua_fimbriata	ilNocFimb1.1	GCA_905163415.1	2022-03	Lepidoptera	DToL	BRAKER2	18553	18734
+Noctua_janthe	ilNocJant1.1	GCA_910589295.1	2021-12	Lepidoptera	DToL	BRAKER2	17653	17848
+Noctua_pronuba	ilNocPron1.1	GCA_905220335.1	2021-12	Lepidoptera	DToL	BRAKER2	17919	18119
+Notocelia_uddmanniana	ilNotUddm1.1	GCA_905163555.1	2022-03	Lepidoptera	DToL	BRAKER2	23030	23237
+Ochropleura_plecta	ilOchPlec1.1	GCA_905475445.1	2021-12	Lepidoptera	DToL	BRAKER2	19016	19223
+Omphaloscelis_lunosa	ilOmpLuno1.1	GCA_916610215.1	2021-12	Lepidoptera	DToL	BRAKER2	18931	19123
+Operophtera_brumata	ilOpeBrum1.1	GCA_932527175.1	2022-06	Lepidoptera	DToL	BRAKER2	17480	17713
+Opisthograptis_luteolata	ilOpiLute1.2	GCA_931315375.2	2022-07	Lepidoptera	DToL	BRAKER2	16004	16163
+Pammene_fasciana	ilPamFasc1.1	GCA_911728535.1	2021-12	Lepidoptera	DToL	BRAKER2	21224	21492
+Pandemis_cinnamomeana	ilPanCinn1.1	GCA_932294345.1	2022-06	Lepidoptera	DToL	BRAKER2	19832	20007
+Peribatodes_rhomboidaria	ilPerRhom1.1	GCA_911728515.1	2021-12	Lepidoptera	DToL	BRAKER2	18486	18692
+Philereme_vetulata	ilPhiVetu1.1	GCA_918857605.1	2022-09	Lepidoptera	DToL	BRAKER2	18096	18269
+Protodeltote_pygarga	ilProPyga1.1	GCA_936450705.1	2022-06	Lepidoptera	DToL	BRAKER2	17605	17764
+Ptilodon_capucinus	ilPtiCapc1.1	GCA_914767695.1	2021-12	Lepidoptera	DToL	BRAKER2	16968	17172
+Schrankia_costaestrigalis	ilSchCost1.1	GCA_905475405.1	2021-12	Lepidoptera	DToL	BRAKER2	19453	19668
+Selenia_dentaria	ilSelDent1.1	GCA_917880725.1	2022-09	Lepidoptera	DToL	BRAKER2	21390	21561
+Sesia_apiformis	ilSesApif2.1	GCA_914767545.1	2021-12	Lepidoptera	DToL	BRAKER2	16358	16533
+Sesia_bembeciformis	ilSesBemb1.1	GCA_943735995.1	2022-08	Lepidoptera	DToL	BRAKER2	15843	16010
+Spilarctia_lutea	ilSpiLutu1.1	GCA_916048165.1	2021-12	Lepidoptera	DToL	BRAKER2	18304	18498
+Spilosoma_lubricipeda	ilSpiLubr1.1	GCA_905220595.1	2021-12	Lepidoptera	DToL	BRAKER2	19772	19961
+Stenoptilia_bipunctidactyla	ilSteBipu1.1	GCA_944452665.1	2022-08	Lepidoptera	DToL	BRAKER2	22137	22313
+Synanthedon_andrenaeformis	ilSynAndr1.1	GCA_936446665.1	2022-06	Lepidoptera	DToL	BRAKER2	17371	17541
+Synanthedon_myopaeformis	ilSynMyop1.1	GCA_944738685.1	2022-08	Lepidoptera	DToL	BRAKER2	15929	16108
+Synanthedon_vespiformis	ilSynVesp1.1	GCA_918317495.1	2022-09	Lepidoptera	DToL	BRAKER2	15525	15694
+Watsonalla_binaria	ilWatBina1.1	GCA_929442735.1	2022-06	Lepidoptera	DToL	BRAKER2	16002	16183
+Xylocampa_areola	ilXylAreo1.1	GCA_935421205.1	2022-07	Lepidoptera	DToL	BRAKER2	18869	19064
+Ypsolopha_scabrella	ilYpsScab1.1	GCA_910592155.1	2021-12	Lepidoptera	DToL	BRAKER2	20594	20761
+Ypsolopha_sequella	ilYpsSequ2.1	GCA_934047225.1	2022-09	Lepidoptera	DToL	BRAKER2	20394	20557
+Zeuzera_pyrina	ilZeuPyri1.1	GCA_907165235.1	2021-12	Lepidoptera	DToL	BRAKER2	22738	22892
+Abrostola_tripartita	ilAbrTrip1.1	GCA_905340225.1	Nov 2021	Lepidoptera	DToL	Ensembl GeneBuild	12092	18859
+Agriopis_marginaria	ilAgrMarg1.1	GCA_932305915.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12443	19394
+Agrotis_puta	ilAgrPuta1.1	GCA_943136025.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	15136	24318
+Amphipyra_berbera	ilAmpBerb1.2	GCA_910594945.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12986	20048
+Amphipyra_tragopoginis	ilAmpTrag2.1	GCA_905220435.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13359	20685
+Anthocharis_cardamines	ilAntCard3.1	GCA_905404175.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12477	22657
+Aphantopus_hyperantus	iAphHyp1.2	GCA_902806685.2	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	14275	25265
+Aplocera_efformata	ilAplEffo1.1	GCA_921293045.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	11393	18155
+Aporia_crataegi	ilApoCrat1.1	GCA_912999735.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	10860	16704
+Aporophyla_lueneburgensis	ilApoLuen1.1	GCA_932294355.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12580	19881
+Aricia_agestis	ilAriAges1.1	GCA_905147365.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12688	21890
+Aricia_artaxerxes	ilAriArta2.1	GCA_937612035.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12597	22299
+Autographa_gamma	ilAutGamm1.1	GCA_905146925.1	2022-10	Lepidoptera	DToL	Ensembl GeneBuild	13567	23394
+Autographa_pulchrina	ilAutPulc1.1	GCA_905475315.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12916	21407
+Bembecia_ichneumoniformis	ilBemIchn1.1	GCA_910589475.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12114	19179
+Biston_betularia	ilBisBetu1.2	GCA_905404145.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12102	18907
+Blastobasis_adustella	ilBlaAdus2.1	GCA_907269095.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	9783	16138
+Blastobasis_lacticolella	ilBlaLact1.1	GCA_905147135.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	10302	17296
+Caradrina_clavipalpis	ilCarClav1.1	GCA_932526535.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12475	19376
+Carposina_sasakii	ASM1460749v2	GCA_014607495.2	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	15664	30572
+Catocala_fraxini	ilCatFrax1.1	GCA_930367265.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12813	20386
+Celastrina_argiolus	ilCelArgi3.1	GCA_905187575.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	12199	24102
+Chloroclysta_siterata	ilChlSite2.1	GCA_932294275.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	11814	18391
+Clostera_curtula	ilCloCurt1.2	GCA_905475355.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12098	18735
+Colias_croceus	ilColCroc2.1	GCA_905220415.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	13830	30850
+Craniophora_ligustri	ilCraLigu1.1	GCA_905163465.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12834	20671
+Cydia_splendana	ilCydSple1.1	GCA_910591565.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	16691	28386
+Danaus_plexippus_plexippus	Dplex_v4	GCA_009731565.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	13994	27874
+Dendrolimus_kikuchii	ASM1992509v1	GCA_019925095.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	16751	28637
+Dendrolimus_punctatus	ASM1227379v1	GCA_012273795.1	2022-08	Lepidoptera	INSDC	Ensembl GeneBuild	21382	41125
+Dryas_iulia_moderata	Diul.assembly.v1.1	GCA_019049465.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	12211	21224
+Ectropis_grisescens	ASM1756216v1	GCA_017562165.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	17382	28175
+Emmelina_monodactyla	ilEmmMono1.1	GCA_916618145.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13451	21384
+Ennomos_fuscantarius	ilEnnFusc2.2	GCA_905220475.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12236	21004
+Ennomos_quercinarius	ilEnnQuei1.1	GCA_910589525.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	11875	18549
+Ephestia_elutella	Eelu-V1	GCA_018467065.1	2022-08	Lepidoptera	INSDC	Ensembl GeneBuild	14150	23388
+Euclidia_mi	ilEucMixx1.1	GCA_944739405.1	2022-08	Lepidoptera	DToL	Ensembl GeneBuild	13454	20568
+Eueides_isabella	ASM1904947v1	GCA_019049475.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	12520	20932
+Euproctis_similis	ilEupSimi1.2	GCA_905147225.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12256	19041
+Fabriciana_adippe	ilFabAdip1.1	GCA_905404265.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13536	23930
+Hecatera_dysodea	ilHecDyso1.2	GCA_905332915.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12213	19697
+Hedya_salicella	ilHedSali1.2	GCA_905404275.2	2022-08	Lepidoptera	DToL	Ensembl GeneBuild	11961	18384
+Hemaris_fuciformis	iHemFuc1.1	GCA_907164795.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13010	21015
+Hyles_euphorbiae	ilHylEuph1_pri	GCA_023078785.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	12677	20212
+Hypena_proboscidalis	ilHypProb1.1	GCA_905147285.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13352	21540
+Idaea_aversata	ilIdaAver1.1	GCA_907269075.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	10165	16156
+Inachis_io	ilAglIoxx1.1	GCA_905147045.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	11420	23610
+Iphiclides_podalirius	IP_504.v2_0	GCA_933534255.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	12863	25054
+Lasiommata_megera	ilLasMege1.1	GCA_928268935.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12606	22529
+Laspeyria_flexula	ilLasFlex1.1	GCA_905147015.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13281	21301
+Leguminivora_glycinivorella	LegGlyc_1.1	GCA_023078275.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	16935	32801
+Leptidea_sinapis	ilLepSina1.1	GCA_905404315.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	14800	33288
+Limenitis_camilla	ilLimCami1.1	GCA_905147385.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12489	19728
+Lycaena_phlaeas	ilLycPhla1.2	GCA_905333005.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12386	21611
+Lymantria_monacha	ilLymMona1.2	GCA_905163515.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	13989	23395
+Lysandra_bellargus	ilLysBell1.1	GCA_905333045.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13249	21189
+Lysandra_coridon	ilLysCori1.1	GCA_905220515.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13334	21474
+Mamestra_brassicae	ilMamBras1.1	GCA_905163435.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12891	20026
+Manduca_sexta	JHU_Msex_v1.0	GCA_014839805.1	2022-08	Lepidoptera	INSDC	Ensembl GeneBuild	17731	30971
+Maniola_jurtina	ilManJurt1.1	GCA_905333055.1	2021-06	Lepidoptera	DToL	Ensembl GeneBuild	12502	25250
+Marasmia_exigua	ASM1905959v1	GCA_019059595.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	16164	27892
+Melanargia_galathea	ilMelGala2.1	GCA_920104075.1	2022-01	Lepidoptera	DToL	Ensembl GeneBuild	13197	22015
+Melinaea_marsaeus_rileyi	ilMelMars1.1	GCA_918358865.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	12747	21033
+Melinaea_menophilus	ilMelMeno1.1	GCA_918358695.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	12668	20874
+Melitaea_cinxia	ilMelCinx1.1	GCA_905220565.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	13666	29593
+Mellicta_athalia	ilMelAtha1.2	GCA_905220545.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12946	21516
+Micropterix_aruncella	ilMicArun2.1	GCA_944548615.1	2022-08	Lepidoptera	DToL	Ensembl GeneBuild	12064	17249
+Mythimna_albipuncta	ilMytAlbi1.1	GCA_929112965.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	13679	21804
+Mythimna_ferrago	ilMytFerr1.2	GCA_910589285.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	13999	22162
+Mythimna_impura	ilMytImpu1.2	GCA_905147345.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	15441	24509
+Mythimna_separata	ASM2088227v1	GCA_020882275.1	2022-09	Lepidoptera	INSDC	Ensembl GeneBuild	17870	32689
+Notodonta_dromedarius	ilNotDrom1.1	GCA_905147325.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12193	19224
+Notodonta_ziczac	ilNotZicz1.1	GCA_918843915.1	2022-08	Lepidoptera	DToL	Ensembl GeneBuild	12888	22208
+Nymphalis_polychloros	ilNymPoly1.2	GCA_905220585.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12190	20354
+Nymphalis_urticae	ilAglUrti1.2	GCA_905147175.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12299	21048
+Ochlodes_sylvanus	ilOchSylv3.1	GCA_905404295.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13451	24216
+Orgyia_antiqua	ilOrgAnti1.1	GCA_916999025.1	2022-02	Lepidoptera	DToL	Ensembl GeneBuild	12475	19295
+Papilio_machaon	ilPapMach1.1	GCA_912999745.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	14323	27922
+Parapoynx_stratiotata	ilParStra1.1	GCA_910589355.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	11868	18549
+Pararge_aegeria	ilParAegt1.1	GCA_905163445.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	12288	26426
+Phalera_bucephala	ilPhaBuce1.2	GCA_905147815.2	2022-01	Lepidoptera	DToL	Ensembl GeneBuild	12540	20247
+Pheosia_gnoma	ilPheGnom1.1	GCA_905404115.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	11628	18167
+Pheosia_tremula	ilPheTrem1.1	GCA_905333125.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	11748	17438
+Phlogophora_meticulosa	ilPhlMeti2.2	GCA_905147745.2	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	12559	20707
+Phragmatobia_fuliginosa	ilPhrFuli1.1	GCA_932526445.1	2022-07	Lepidoptera	DToL	Ensembl GeneBuild	13338	19899
+Pieris_brassicae	ilPieBrab1.1	GCA_905147105.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	12229	27437
+Pieris_napi	ilPieNapi4.1	GCA_905231885.1	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	13789	26707
+Pieris_rapae	ilPieRapa1.1	GCA_905147795.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	12390	28265
+Plebejus_argus	ilPleArgu1.2	GCA_905404155.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	12351	19301
+Plutella_xylostella	ilPluXylo3.1	GCA_932276165.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	17190	34493
+Polyommatus_icarus	ilPolIcar1.1	GCA_937595015.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	13350	23612
+Pyrgus_malvae	ilPyrMalv3.1	GCA_911387765.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12096	20064
+Thera_britannica	ilTheBrit1.1	GCA_939531255.1	2022-06	Lepidoptera	DToL	Ensembl GeneBuild	12457	19711
+Tholera_decimalis	ilThoDeci1.1	GCA_943138885.1	2022-08	Lepidoptera	DToL	Ensembl GeneBuild	12771	20749
+Thyatira_batis	ilThyBati1.1	GCA_905147785.1	2021-05	Lepidoptera	DToL	Ensembl GeneBuild	12238	18712
+Thymelicus_sylvestris	ilThySylv1.1	GCA_911387775.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	13941	29517
+Tinea_semifulvella	ilTinSemi1.1	GCA_910589645.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	11516	18020
+Tinea_trinotella	ilTinTrin1.1	GCA_905220615.1	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	9267	19116
+Vanessa_atalanta	ilVanAtal1.2	GCA_905147765.2	2021-11	Lepidoptera	DToL	Ensembl GeneBuild	12900	24665
+Vanessa_cardui	ilVanCard2.2	GCA_905220365.2	2022-03	Lepidoptera	DToL	Ensembl GeneBuild	13265	23464
+Xestia_xanthographa	ilXesXant1.2	GCA_905147715.2	2022-01	Lepidoptera	DToL	Ensembl GeneBuild	13879	22763
+Xestia_sexstrigata	ilXesSexs1.1	GCA_941918905.1	2022-07	Lepidoptera	DToL	genebuid	15104	25576
+Yponomeuta_sedellus	ilYpoSedl1.1	GCA_934045075.1	2022-08	Lepidoptera	DToL	genebuid	13010	20486
+Zygaena_filipendulae	ilZygFili1.2	GCA_907165275.2	2022-07	Lepidoptera	DToL	genebuid	12673	20871
