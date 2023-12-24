@@ -142,13 +142,33 @@ length_boxplot <- ggplot(prop_chr_length, aes(x=Merian_f, y=prop_length, colour=
         axis.text = element_text(size=x_text_size)) 
 length_boxplot
 
+# get number of observations per merian
+num_obs_df <- prop_chr_length %>% group_by(assigned_ref_chr) %>% summarise(num_obs = n()) %>% ungroup()
+num_obs_df <- num_obs_df %>% arrange(factor(assigned_ref_chr, levels = rev(merian_order)))
+
+length_boxplot <- ggplot(prop_chr_length, aes(x=Merian_f, y=prop_length, colour=Merian_f))  + 
+  geom_boxplot(outlier.shape = NA) + 
+  theme_classic() +coord_flip()  +
+  labs(y="Proportional chr length (%)", x=("Merian element")) +
+  theme(legend.position = "none", 
+        axis.title = element_text(size = x_title_size),
+        axis.text = element_text(size=x_text_size)) +
+  scale_x_discrete(breaks=rev(merian_order), label=function(x) paste0(x, ' (n=', num_obs_df$num_obs, ')')) # label categories with Merian and number of obs
+
+
 # combine plots in Fig3 and save
 Fig3A <- length_boxplot + labs(subtitle = "A") +  theme(legend.position = 'none')
 Fig3B_and_Fig3C <- heatmap_plot + labs(subtitle = "B") + Z_vs_autosome_barchart + labs(subtitle = "C") +
   plot_layout(widths = c(1.4, 1), guides = "collect") &  theme(legend.position = 'top')
 
 Fig3 <- Fig3A + Fig3B_and_Fig3C +  plot_layout(ncol=2, widths=c(1,2.4))  & theme(plot.subtitle = element_text(size=15, face=2))
-ggsave(plot=Fig3, '../Figures/Fig3.pdf', device = 'pdf', width = 20, height = 10, units = "in", limitsize=FALSE) #  save figure
+ggsave(plot=Fig3, '../Figures/Main_text/NEE_submission2/Fig3_061223.pdf', device = 'pdf', width = 20, height = 10, units = "in", limitsize=FALSE) #  save figure
+
+# output plotted tsv tables to save as source data
+fig3a_plotted_source_data <- merge(prop_chr_length, num_obs_df, by='assigned_ref_chr')
+write.table(fig3a_plotted_source_data, file = "../../Chromosome_evolution_Lepidoptera_MS/data/prop_length_per_merian_per_species_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(freq_merian_pairs, file = "../../Chromosome_evolution_Lepidoptera_MS/data/freq_of_fusion_per_pair_of_merians_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(Z_vs_autosome_fusions, file = "../../Chromosome_evolution_Lepidoptera_MS/data/number_autosome_autosome_vs_autosome_sex_fusions_per_Merian_141223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
 
 # Test for correlation between avg_prop_length and frequency of fusions
 

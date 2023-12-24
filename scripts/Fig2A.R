@@ -7,12 +7,14 @@ library(tidyverse)
 library(patchwork)
 library(ggplot2)
 library(dplyr)
+library(phytools)
+library(ggtree)
 
 ## set input paths
 setwd("/Users/cw22/Documents/R_work/Chromosome_evolution_Lepidoptera/Scripts/")
 
 ## load functions
-source("functions_oxford_plots.R") 
+source("/Users/cw22/Documents/R_work/Chromosome_evolution_Lepidoptera_MS/scripts/functions_oxford_plots.R") 
 
 ## import data
 busco_dir <- "/Users/cw22/Documents/R_work/Chromosome_evolution_Lepidoptera/Data/BUSCOs/All/"
@@ -105,3 +107,10 @@ Fig2A <- summary_cladogram + oxford_plots + plot_layout(widths = c(3,1))
 
 ## save Fig2A
 ggsave(plot=Fig2A, '../Figures/Fig2A', device='pdf', width = 15, height = 15, dpi = 300, units = "in")
+
+
+# save busco table as an output tsv to add to github repo
+write.table(buscos, file = "../../Chromosome_evolution_Lepidoptera_MS/data/busco_2_Merian_for_all_217_species_151223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+# save subset_spp_buscos as an output tsv to add to source_data
+write.table(subset_spp_buscos, file = "../../Chromosome_evolution_Lepidoptera_MS/data/busco_2_Merian_for_species_plotted_in_fig2A_151223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+

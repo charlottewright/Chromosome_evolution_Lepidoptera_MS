@@ -111,3 +111,20 @@ chisq.test(data_wide)$expected
 chisq.test(data_wide)
 # In chisq.test(data_wide) : Chi-squared approximation may be incorrect
 # means theres obs <5 so should use Fisher'
+
+
+
+
+
+# df
+# BLG_df
+# Merian_df
+
+
+# output plotted tsv tables to save as source data
+# Extended Data 2A
+write.table(Merian_df, file = "../Chromosome_evolution_Lepidoptera_MS/data/Number_orthologues_per_Merian_also_assigned_to_BLGs_151223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+# Extended Data 2B
+write.table(df, file = "../Chromosome_evolution_Lepidoptera_MS/data/Prop_Merian_othrologues_assigned_to_each_BLG_151223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+# Extended Data 2C
+write.table(BLG_df, file = "../Chromosome_evolution_Lepidoptera_MS/data/Number_orthologues_per_BLG_also_assigned_to_Merians_151223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
