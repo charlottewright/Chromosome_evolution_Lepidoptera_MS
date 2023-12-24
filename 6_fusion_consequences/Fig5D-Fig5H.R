@@ -132,6 +132,10 @@ target_spp_df <- target_spp_df[target_spp_df$prop_length > 0.02,]
 target_spp_df <- target_spp_df[!grepl("MZ", target_spp_df$assigned_merian),] # remove MZ (regardless of fused or not)
 target_spp_fusions <- small_merian_fusions[small_merian_fusions$species == "Agrochola_circellaris",]
 
+# make copies of dataframe for source data
+Fig5D_source_data_1 <- target_spp_df
+Fig5D_source_data_2 <- target_spp_fusions
+
 target_spp_fusions$tempvar <- "Recent fusion" # do this to add title as a strip later
 
 Fig5D <- ggplot() + 
@@ -155,6 +159,11 @@ target_spp_df <- all_chromosomes[all_chromosomes$species == "Aphantopus_hyperant
 target_spp_df <- target_spp_df[target_spp_df$prop_length > 0.05,]  # remove unplaced scaffs
 target_spp_df <- target_spp_df[!grepl("MZ", target_spp_df$assigned_merian),] # remove MZ (regardless of fused or not)
 target_spp_fusions <- small_merian_fusions[small_merian_fusions$species == "Aphantopus_hyperantus",]
+
+# make copies of dataframe for source data
+Fig5E_source_data_1 <- target_spp_df
+Fig5E_source_data_2 <- target_spp_fusions
+
 target_spp_fusions$tempvar <- "Old fusion" # do this to add title as a strip later
 
 Fig5E <- ggplot() + 
@@ -248,3 +257,35 @@ design <- "
 Fig5D_to_Fig5H <- Fig5D + Fig5E + Fig5F + Fig5G + Fig5H + guide_area() + plot_layout(design=design, guides = "collect")
 
 ggsave(plot=Fig5D_to_Fig5H, '../Figures/Fig5D-Fig5H.pdf', device = 'pdf', width = 13, height = 10, units = "in", limitsize=FALSE)
+
+
+# output plotted tsv tables to save as source data
+# Fig 5D - Agrochola_circellaris
+cols_1_keep <- c('chr',	'assigned_merian','prop_length',	'repeat_density', 'status')
+Fig5D_source_data_1 <- Fig5D_source_data_1 %>% select(all_of(cols_1_keep))
+Fig5D_source_data_1$relative_size <- 'NA'
+cols_2_keep <- c('chr',	'assigned_merian','prop_length',	'repeat_density', 'status', 'relative_size')
+Fig5D_source_data_2 <- Fig5D_source_data_2 %>% select(all_of(cols_2_keep))
+Fig5D_source_data <- rbind(Fig5D_source_data_1, Fig5D_source_data_2)
+write.table(Fig5D_source_data, file = "../Chromosome_evolution_Lepidoptera_MS/data/Fig5d_recent_fusion_repeat_density_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+
+# Fig 5E - Aphantopus_hyperantus
+Fig5E_source_data_1 <- Fig5E_source_data_1 %>% select(all_of(cols_1_keep))
+Fig5E_source_data_1$relative_size <- 'NA'
+cols_2_keep <- c('chr',	'assigned_merian','prop_length',	'repeat_density', 'status', 'relative_size')
+Fig5E_source_data_2 <- Fig5E_source_data_2 %>% select(all_of(cols_2_keep))
+FigE_source_data <- rbind(Fig5E_source_data_1, Fig5E_source_data_2)
+write.table(Fig5E_source_data, file = "../Chromosome_evolution_Lepidoptera_MS/data/Fig5e_recent_fusion_repeat_density_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+
+# Fig 5F - observed_vs_expected_repeat_density_per_segment_141232
+# data=segments_only, aes(x=relative_size, y=repeat_delta, fill=relative_size
+Fig5F_source_data <- segments_only
+cols_keep <- c('chr',	'merian_segment',	'species',	'relative_size',	'repeat_delta')
+Fig5F_source_data <- Fig5F_source_data %>% select(all_of(cols_keep))
+write.table(Fig5F_source_data, file = "../Chromosome_evolution_Lepidoptera_MS/data/observed_vs_expected_repeat_density_per_segment_141232", row.names=FALSE, sep="\t", quote = FALSE)
+head(segments_only)
+# Fig 5G (Pierini)
+write.table(Pierini_noMZ, file = "../Chromosome_evolution_Lepidoptera_MS/data/Repeat_density_vs_prop_length_Pierini_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+
+# Fig 5H (Lysandra)
+write.table(Lysandra_noMZ, file = "../Chromosome_evolution_Lepidoptera_MS/data/Repeat_density_vs_prop_length_Lysandra_141232.tsv", row.names=FALSE, sep="\t", quote = FALSE)

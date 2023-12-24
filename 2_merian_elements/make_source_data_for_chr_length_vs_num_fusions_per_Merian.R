@@ -12,4 +12,4 @@ colnames(fusions) <- c('Merian_element', 'Freq_fusions')
 fusions <- merge(fusions, merians, by="Merian_element")
 # output plotted tsv tables to save as source data
 # Extended Data 3
-write.table(fusions, file = "../Chromosome_evolution_Lepidoptera_MS/data/Num_fusions_per_Merian_vs_freq_fusions.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(fusions, file = "../Chromosome_evolution_Lepidoptera_MS/data/Num_fusions_per_Merian_vs_average_prop_length.tsv", row.names=FALSE, sep="\t", quote = FALSE)
