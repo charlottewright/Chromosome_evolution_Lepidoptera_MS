@@ -7,16 +7,16 @@ library(tidyverse)
 library(ggpubr) 
 
 ## set input paths
-setwd("/Users/cw22/Documents/R_work/Chromosome_evolution_Lepidoptera/Scripts/")
+setwd("/Users/cw22/Documents/R_work/Chromosome_evolution_Lepidoptera_MS/")
 
 ## load functions
-source('functions_busco_painter.R')
+source('2_merian_elements/functions_busco_painter.R')
 
 ## import data
-assignments <- read.csv('../Sup_tables/Sup_table_all_chr.tsv', sep='\t')[,c(2,19)] # 6233
+assignments <- read.csv('sup_tables/tableS10_chromosome_statistics.tsv', sep='\t')[,c(2,19)] # 6233
 # NB: currently misses H. sara - need to fix
 colnames(assignments) <- c('query_chr', 'rearrangement_status')
-buscos_file_path <- '../Data/buscopaint/'
+buscos_file_path <- '../Chromosome_evolution_Lepidoptera/Data/buscopaint/'
 
 ## specify set of species to plot
 spp_list <- c('Micropterix_aruncella', 'Melitaea_cinxia', 'Bombyx_mori', 'Spilosoma_lubricipeda', 'Pieris_napi',
@@ -106,3 +106,9 @@ paints_combined <- paints_combined + draw_figure_label(label="B", position = c("
 
 ## save figure
 ggsave('../Figures/Fig2B.pdf', device='pdf', width = 16, height = 16, dpi = 300, units = "in")
+
+
+# save subset_spp_buscos as an output tsv to add to source_data
+subset_spp <- c('Micropterix_aruncella', 'Melitaea_cinxia', 'Bombyx_mori', 'Spilosoma_lubricipeda', 'Diarsia_rubi', 'Tinea_trinotella', 'Pieris_napi')
+subset_spp_buscos <- location_set[location_set$short_species_id %in% subset_spp, ]
+write.table(subset_spp_buscos, file = "2_merian_elements//busco_2_Merian_for_species_plotted_in_fig2B_271223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
