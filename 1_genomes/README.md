@@ -10,5 +10,5 @@ Contains the concatenated alignment (supermatrix.fa) and the resulting newick fi
 
 [**feature_distribution**](<>)
 
-Contains the code to generate the distributions of GC, repeat density and coding density along chromosomes in 100 kb windows. BED files containing GC proportion, repeat density and coding density are plotted using an R script (Plot_features_along_chr_supfig.R).
+Contains the code to generate the distributions of GC, repeat density and coding density along chromosomes in 100 kb windows. BED files containing GC proportion, repeat density and coding density are plotted using an R script (Plot_features_along_chr_supfig.R) which generates Exteded Data Figure 1a-d.
 
