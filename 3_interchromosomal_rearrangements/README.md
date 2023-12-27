@@ -1,4 +1,4 @@
-# Distribution of fusion and fission events across Lepidoptera
+# Section 3: Distribution of fusion and fission events across Lepidoptera
 
 [**fusion_frequency**](<>)
 
