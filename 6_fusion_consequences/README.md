@@ -24,4 +24,4 @@ These TSV files were plotted using an R script (Repeat_density_along_fused_vs_un
 
 [**old_fusion**](<>)
 
-Code and data needed to generate the scatterplot of repeat density in 100 kb windows across the chromosome LR761656.1 in *Aphantopus hyperantus* which is the product of a fusion event. The TSV files contain repeat density in 100 kb windows along LR761656.1 and is plotted using an R script (Repeat_density_along_fused_vs_unfused_chr_supfig.R) to generate Extended Data Figure 8.
+Code and data needed to generate the scatterplot of repeat density in 100 kb windows across the chromosome LR761656.1 in *Aphantopus hyperantus* which is the product of a fusion event. The TSV file (repeat_density_across_fusion_chr_in_Aphantopus_hyperantus_151223.tsv) contains repeat density in 100 kb windows along LR761656.1 and is plotted using an R script (Repeat_density_along_fused_vs_unfused_chr_supfig.R) to generate Extended Data Figure 8.
