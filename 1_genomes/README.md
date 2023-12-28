@@ -6,7 +6,7 @@ Contains code and files to generate the phylogeny coloured by the presence of in
 
 [**lepidoptera_phylogeny**](<>)
 
-Contains the concatenated alignment (supermatrix.fa) and the resulting newick file (derived from ASTRAL, with branch lengths from IQ-TREE) associated with the lepidoptera phylogeny shown in Figure 1A.
+Contains the newick file (phylogeny_210Leps_5Trichop.treefile) (derived from ASTRAL, with branch lengths from IQ-TREE) associated with the lepidoptera phylogeny shown in Figure 1A.
 
 [**feature_distribution**](<>)
 
