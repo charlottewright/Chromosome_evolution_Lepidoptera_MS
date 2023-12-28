@@ -111,4 +111,4 @@ ggsave('../Figures/Fig2B.pdf', device='pdf', width = 16, height = 16, dpi = 300,
 # save subset_spp_buscos as an output tsv to add to source_data
 subset_spp <- c('Micropterix_aruncella', 'Melitaea_cinxia', 'Bombyx_mori', 'Spilosoma_lubricipeda', 'Diarsia_rubi', 'Tinea_trinotella', 'Pieris_napi')
 subset_spp_buscos <- location_set[location_set$short_species_id %in% subset_spp, ]
-write.table(subset_spp_buscos, file = "2_merian_elements//busco_2_Merian_for_species_plotted_in_fig2B_271223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(subset_spp_buscos, file = "2_merian_elements/busco_2_Merian_for_species_plotted_in_fig2B_1223.tsv", row.names=FALSE, sep="\t", quote = FALSE)
