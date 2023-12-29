@@ -1,6 +1,6 @@
 # Section 3: Distribution of fusion and fission events across Lepidoptera
 
-[**fusion_frequency**](<>)
+[**fusion_frequency**](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/3_interchromosomal_rearrangements/fusion_frequency>)
 
 Code and data to generate:
 1. Boxplots of the distribution in proportional chromosome length within each Merian element. A TSV was plotted (prop_length_per_merian_per_species_141232.tsv).
