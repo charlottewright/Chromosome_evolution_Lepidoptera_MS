@@ -8,4 +8,4 @@ These TSV files were also used to generate scatterplots of GC, GC3 and coding de
 
 [**repeat_distributions**](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/5_sequence_contents/repeat_distributions>)
 
-Code and data used to generate Extended Data Figure 5 which contains scatterplots of scaled repeat density for each major class of repeat. The TSV containing the repeat density per repeat class per Merian element scaled by the average repeat density of a given species (scaled_repeat_density_per_repeat_class_per_Merian_151223.tsv) was plotted using an R script (plot_repeat_density_per_repeat_class_vs_chr_length_supplementary.R). 
+Code and data used to generate Extended Data Figure 5 which contains scatterplots of scaled repeat density for each major class of repeat. The TSV containing the repeat density per repeat class per Merian element scaled by the average repeat density of a given species (scaled_repeat_density_per_repeat_class_per_Merian_151223.tsv) was generated from a TSV (combined_repeat_density_per_family_per_chr.tsv) and plotted using an R script (plot_repeat_density_per_repeat_class_vs_chr_length_supplementary.R). 
