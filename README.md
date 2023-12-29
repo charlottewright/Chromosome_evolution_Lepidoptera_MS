@@ -33,6 +33,9 @@ Code and files related to the sixth results section ("Consequences of fusions").
 ## [sup_tables](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/sup_tables>)
 TSV files containing Supplementary Tables 1-11. 
 
-## [repeat_annotation_files](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/5_sequence_contents>)
+## [repeat_annotation_files](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/repeat_annotation_files>)
 FASTA files containing the repeat libraries for each species.
+
+## [gene_annotation_files](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/gene_annotation_files>)
+FASTA files containing the gene annotations for each species.
 
