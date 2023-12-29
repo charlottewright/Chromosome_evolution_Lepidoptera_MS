@@ -1,6 +1,6 @@
 # Section 4: Extensive rearrangemets in eight independent lineages
 
-[**merian_paints**](<>)
+[**merian_paints**](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/4_highly_rearranged_genomes/merian_paints>)
 
 Code and data to generate the merian paints in Figure 4a, Figure 4b and Supplementary Figure 9.
 Also requires the chromosome assignments to Merian elements from 
