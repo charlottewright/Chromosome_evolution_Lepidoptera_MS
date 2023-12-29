@@ -8,8 +8,7 @@ These files are plotted using R scripts (Fig2A.R and functions_oxford_plots.R).
 
 [merian_paints](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/2_merian_elements/merian_paints>)
 
-Contains code and data to generate the merian paints in Figure 2b. A set of TSVs contain the locations of BUSCO genes in each species along with the Merian element assignment (busco_2_Merian_for_species_plotted_in_fig2B_1223.tsv) derived from [lep_busco_painter](<https://github.com/charlottewright/lep_busco_painter/>). 
-These files are plotted using R scripts (Fig2B.R and functions_busco_painter.R).
+Contains code and data to generate the merian paints in Figure 2b. A set of TSVs contain the locations of BUSCO genes in each species along with the Merian element assignment (busco_2_Merian_for_species_plotted_in_fig2B_1223.tsv) derived from [lep_busco_painter](<https://github.com/charlottewright/lep_busco_painter/>). These files are plotted using R scripts (Fig2B.R and functions_busco_painter.R). Merian paint PDFs are available for all 210 species (MerianElements_buscopaint_all_spp.tar.gz).
 
 [compare_ALGs](<https://github.com/charlottewright/Chromosome_evolution_Lepidoptera_MS/tree/main/2_merian_elements/compare_ALGs>)
 
