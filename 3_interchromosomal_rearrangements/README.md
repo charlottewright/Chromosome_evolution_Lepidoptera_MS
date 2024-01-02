@@ -8,3 +8,5 @@ Code and data to generate:
 3. Barchart of the number of autosome-autosome and sex chromosome-autosome fusion events that each Merian element is involved in. A TSV contained the freuqency of each type of fusion events (number_autosome_autosome_vs_autosome_sex_fusions_per_Merian_141223.tsv).
 
 These three TSVs were derived from two TSV files (011122_total_fusions_per_Merian.tsv and 011122_total_fusions_per_pair_of_Merians.tsv) which were generated using a python script (Make_heatmap_fusions.py). The three resulting TSV files were plotted using an R script (Fig3.R) to generate Figure 3a-c.
+
+Also includes code required to compare the number of internal fusions to those on external nodes (simulate_fusion_history.py).
