@@ -1,8 +1,7 @@
-## Code, data and plots associated with "Chromosome Evolution in Lepidoptera"
+## Code, data and plots associated with "Comparative genomics of the dynamics of chromosome evolution in Lepidoptera"
 *Charlotte Wright, Blaxter lab, Tree of Life, Wellcome Sanger Institute*
 
-This repository contains all of the source code - that together with the supplementary files available on Zenodo -are required to reproduce all figures presented in 'Chromosome evolution in Lepidoptera' (Wright et al. 2023).
-https://www.biorxiv.org/content/10.1101/2023.05.12.540473v1.abstract 
+This repository contains all of the source code - that together with the supplementary files available on Zenodo - are required to reproduce all figures presented in the manuscript.
 
 A copy of this GitHub repository has been accessioned in Zenodo at https://doi.org/10.5281/zenodo.10373060.
 
